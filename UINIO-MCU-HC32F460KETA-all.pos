@@ -1,0 +1,53 @@
+### Footprint positions - created on 2024-08-12T16:23:21+0800 ###
+### Printed by KiCad version 8.0.4
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                  Package                                   PosX       PosY       Rot  Side
+C1        0.1uF                C_0603_1608Metric                      38.3300    -9.6700   90.0000  top
+C2        1uF                  C_0603_1608Metric                      40.0600    -9.6700   90.0000  top
+C3        1uF                  C_0603_1608Metric                      49.6775   -10.4400    0.0000  top
+C4        1uF                  C_0603_1608Metric                       8.6100   -27.0550   90.0000  top
+C5        0.1uF                C_0603_1608Metric                      49.6775   -12.1700    0.0000  top
+C6        4.7uF                C_0603_1608Metric                      36.2150   -31.6000  180.0000  top
+C7        1uF                  C_0603_1608Metric                      13.8900   -27.0550   90.0000  top
+C8        0.1uF                C_0603_1608Metric                      27.9400    -9.6550  -90.0000  top
+C9        0.1uF                C_0603_1608Metric                      19.7750   -30.4800    0.0000  top
+C10       0.1uF                C_0603_1608Metric                       4.6400    -7.4800  180.0000  top
+C11       1uF                  C_0603_1608Metric                       4.6400   -10.0200  180.0000  top
+C12       0.1uF                C_0603_1608Metric                      29.9200    -9.6550  -90.0000  top
+C13       0.1uF                C_0603_1608Metric                      19.7550    -8.8600    0.0000  top
+C14       10pF                 C_0603_1608Metric                      49.6750   -20.3900    0.0000  top
+C15       10pF                 C_0603_1608Metric                      47.3750   -31.6000    0.0000  top
+C16       10pF                 C_0603_1608Metric                      47.3750   -29.0600    0.0000  top
+C17       0.1uF                C_0603_1608Metric                      25.9200   -29.7750   90.0000  top
+C18       10pF                 C_0603_1608Metric                      49.6750   -26.0500  180.0000  top
+C19       0.1uF                C_0603_1608Metric                      36.2250   -33.2100  180.0000  top
+D1        LED-RED              LED_0603_1608Metric                    11.2750   -17.2500  180.0000  top
+HOLE**    Hole-2mm             Hole-2mm                               -0.8800   -40.7100    0.0000  top
+HOLE**    Hole-2mm             Hole-2mm                               -0.8800    -2.2100    0.0000  top
+HOLE**    Hole-2mm             Hole-2mm                               64.2800    -2.2100    0.0000  top
+HOLE**    Hole-2mm             Hole-2mm                               64.2800   -40.7100    0.0000  top
+J1        Conn_01x14_Pin       PinHeader_1x14_P2.54mm_Vertical        67.0300   -37.9600  180.0000  top
+J2        Conn_01x24_Pin       PinHeader_1x24_P2.54mm_Vertical         2.4900   -41.5600   90.0000  top
+J3        Conn_01x24_Pin       PinHeader_1x24_P2.54mm_Vertical         2.4900    -1.3600   90.0000  top
+J4        MD                   PinHeader_1x02_P2.54mm_Vertical        22.0800   -33.0100  -90.0000  top
+J5        Conn_01x04_Pin       PinHeader_1x04_P2.54mm_Vertical        -3.6500   -12.5600  180.0000  top
+J6        Conn_01x04_Pin       PinHeader_1x04_P2.54mm_Vertical        -3.6500   -37.9600  180.0000  top
+L1        1K_100MHz            L_0603_1608Metric                      41.7900    -9.6700  -90.0000  top
+L2        1K_100MHz            L_0603_1608Metric                      36.6000    -9.6700  -90.0000  top
+L3        1K_100MHz            L_0603_1608Metric                      49.6775   -15.6300  180.0000  top
+L4        1K_100MHz            L_0603_1608Metric                      49.6775   -13.9000  180.0000  top
+R1        5.1K                 R_0603_1608Metric                      11.2950   -20.2000    0.0000  top
+R2        5.1K                 R_0603_1608Metric                      11.2950   -23.2100    0.0000  top
+R3        2K                   R_0603_1608Metric                      11.2950   -15.2600    0.0000  top
+R4        4.7K                 R_0603_1608Metric                      19.7750   -28.6700  180.0000  top
+R5        10K                  R_0603_1608Metric                      19.7550   -14.3300  180.0000  top
+R6        10K                  R_0603_1608Metric                       4.6400   -35.4200  180.0000  top
+R7        10K                  R_0603_1608Metric                       4.6400   -32.8800    0.0000  top
+SW1       NRST                 SW-SMD_4P-L4.2-W3.4-P2.15-LS4.7        20.7300   -11.5950  180.0000  top
+U1        ME6211C33M5G         SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL      11.2455   -27.0600  -90.0000  top
+U2        HC32F460KETA-LQFP64  LQFP-64_L10.0-W10.0-P0.50-LS12.0-BL    31.6900   -21.4600   90.0000  top
+USB1      USB_Type_C_16Pin     USB_Type_C_16Pin                       -0.9300   -21.4600  -90.0000  top
+Y1        32.768KHz            Crystal_SMD_3215-2Pin_3.2x1.5mm        50.0075   -30.3300   90.0000  top
+Y2        8MHz                 Crystal_SMD_3225-4Pin_3.2x2.5mm        49.4550   -23.2200  -90.0000  top
+## End

@@ -1,0 +1,185 @@
+(footprint "ANT-SMD_L3.2-W1.6-P3.30"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -2.5 -2 0)
+		(layer "F.SilkS")
+		(uuid "492c208a-34df-4aab-b042-0de9554f06d0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left)
+		)
+	)
+	(property "Value" "std:0f0b0322cbba49f39dbdc39b020f33fe"
+		(at -16 3 0)
+		(layer "F.Fab")
+		(uuid "c11f2e71-79d9-446a-a1b6-b95f28e3051a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "55c4fdba-bba6-4b47-be2e-33b520fbb908")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "912f87ef-018a-42ae-ab1a-0e95e8f1ef5c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a0e08145-83a6-46a2-8607-1f06dfd282ca")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.105 0.804)
+		(end 1.099 0.804)
+		(stroke
+			(width 0.18)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6845dbdf-a5bb-4a0b-9d2b-df2a24d79057")
+	)
+	(fp_line
+		(start -1.099 -0.814)
+		(end 1.106 -0.814)
+		(stroke
+			(width 0.18)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4d1e4db0-ae5f-41c6-9f37-5560d82d0c77")
+	)
+	(fp_circle
+		(center -1.6 0.8)
+		(end -1.57 0.8)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill none)
+		(layer "Eco2.User")
+		(uuid "fd765391-bbd5-45aa-9444-b9eeadf58bbb")
+	)
+	(fp_poly
+		(pts
+			(xy -1.6 -0.8) (xy -1.4 -0.8) (xy -1.4 0.8) (xy -1.6 0.8)
+		)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill solid)
+		(layer "Eco2.User")
+		(uuid "064e44ff-3976-410f-833e-f36dc8064de6")
+	)
+	(fp_poly
+		(pts
+			(xy 1.4 -0.8) (xy 1.6 -0.8) (xy 1.6 0.8) (xy 1.4 0.8)
+		)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill solid)
+		(layer "Eco2.User")
+		(uuid "933da803-17d5-49f9-be9d-e2c12ed40abb")
+	)
+	(fp_line
+		(start -1.6 -0.8)
+		(end 1.6 -0.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "cb6b1bb1-0304-4711-b2c2-31967d34224f")
+	)
+	(fp_line
+		(start -1.6 0.8)
+		(end -1.6 -0.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3a96cc93-de63-4a3b-9438-a98512eed05a")
+	)
+	(fp_line
+		(start 1.6 -0.8)
+		(end 1.6 0.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5b8c96bc-b661-4308-81ef-33dbf03d5d52")
+	)
+	(fp_line
+		(start 1.6 0.8)
+		(end -1.6 0.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ac7830d6-1b4b-4a50-98dc-e793123784df")
+	)
+	(pad "1" smd rect
+		(at -1.65 0)
+		(size 0.7 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "3de5fe82-903d-4c51-9374-40843e2592ab")
+	)
+	(pad "2" smd rect
+		(at 1.65 0)
+		(size 0.7 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "ae51e701-106e-478e-bca3-c7ec340d0aea")
+	)
+	(model "${KIPRJMOD}/Libraries/Uinio.3D/ANT-SMD_L3.2-W1.6-P3.30.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
